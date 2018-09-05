@@ -20,6 +20,6 @@
 
 
 ## ```6. What issues did you help your fellow classmates out with this past homework cycle? ```
-# I haven't seen and issues by my fellow classmates in the issues forum.
+# I haven't seen any issues by my fellow classmates in the issues forum.
 
 Here's an image of me doing the homework ![Image of my editor](hw2.png)
